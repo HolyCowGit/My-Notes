@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "0816c1b78d60b861",
+    "type": "split",
+    "children": [
+      {
+        "id": "217ca4744ae4fda9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Selenium/What is Selenium(introduction)/What is Selenium.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9ef8aaadb41372f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb906f34e789b3c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec23b90b7bd1db0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4005164b5e80e1ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260
+  },
+  "right": {
+    "id": "fca4c3136bdc5921",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd5eb3b75c8843a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e35226288fa58a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Selenium/What is Selenium(introduction)/What is Selenium.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311,
+    "collapsed": true
+  },
+  "active": "217ca4744ae4fda9",
+  "lastOpenFiles": [
+    "Selenium/What is Selenium(introduction)/What is Selenium.md",
+    "Selenium/What is Selenium(introduction)/Summary.md",
+    "Selenium/What is Selenium(introduction)/Choose Right Tools.md",
+    "Selenium/What is Selenium(introduction)/WebDriver.md",
+    "Selenium/What is Selenium(introduction)/Selenium Grid.md",
+    "Selenium/What is Selenium(introduction)/Selenium 2.md",
+    "Selenium/What is Selenium(introduction)/Selenium Integrated Development Environment (IDE).md",
+    "Selenium/What is Selenium(introduction)/Selenium Remote Control (RC).md"
+  ]
+}

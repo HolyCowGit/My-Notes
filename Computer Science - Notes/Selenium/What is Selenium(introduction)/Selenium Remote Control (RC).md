@@ -1,0 +1,3 @@
+# Birth of Selenium Remote Control (Selenium RC)
+
+Unfortunately; testers using Selenium Core had to install the whole application under test and the web server on their own local computers because of the restrictions imposed by the **same origin policy.** So another ThoughtWork’s engineer, **Paul Hammant**, decided to create a server that will act as an HTTP proxy to “trick” the browser into believing that Selenium Core and the web application being tested come from the same domain. This system became known as the **Selenium Remote Control** or **Selenium 1**.

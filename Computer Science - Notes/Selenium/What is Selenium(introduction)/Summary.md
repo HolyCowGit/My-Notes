@@ -1,0 +1,7 @@
+-   The entire Selenium Software Testing Suite is comprised of four components:
+-   Selenium IDE, a Firefox add-on that you can only use in creating relatively simple test cases and test suites.
+-   Selenium Remote Control, also known as Selenium 1, which is the first Selenium tool that allowed users to use programming languages in creating complex tests.
+-   WebDriver, the newer breakthrough that allows your test scripts to communicate directly to the browser, thereby controlling it from the OS level.
+-   Selenium Grid is also a tool that is used with Selenium RC to execute parallel tests across different browsers and operating systems.
+-   Selenium RC and WebDriver was merged to form Selenium 2.
+-   Selenium is more advantageous than QTP in terms of costs and flexibility. It also allows you to run tests in parallel, unlike in QTP where you are only allowed to run tests sequentially.
